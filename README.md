@@ -10,8 +10,8 @@
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="HTML5"
+    title="HTML5" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
@@ -155,7 +155,7 @@
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFers-Git&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFers-Git&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=16" 
   />
 
 </p>
